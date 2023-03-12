@@ -1,3 +1,5 @@
+**Bug Reported** [Here](https://github.com/ionic-team/ionic-framework/issues/25334#issuecomment-1465216110)
+
 This repo shows a problem in the current version of ionic with testing.
 The problem is that if you do `screen.debug()` or any of the
 `@testing-library` matchers fail, it enters into an infinite loop and
